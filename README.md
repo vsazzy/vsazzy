@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yashVerma
 - 👀 I’m interested in ReactJS
-- 🌱 I’m currently learning React Native
+- 🌱 I’m currently working on Go
 - 💞️ I’m looking to collaborate on Anything related to JS
 
 
