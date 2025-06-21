@@ -1,3 +1,4 @@
+### Glad to see you here! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-verma7/)
 [![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/d/1x2eR5jW_YTu7FLIUrXuaJdv8mkCQ3Xas/p/1_DEbkVviXgQKx8HQr4nPlgV5mXosyEeQ/edit?pli=1/)
 
