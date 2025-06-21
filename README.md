@@ -2,7 +2,7 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/d/1x2eR5jW_YTu7FLIUrXuaJdv8mkCQ3Xas/p/1_DEbkVviXgQKx8HQr4nPlgV5mXosyEeQ/edit?pli=1/)
 
 
-- 👋 Hi, I’m @yashVerma
+- 👋 Hi, I’m Yash Verma
 - 👀 I’m interested in the world of ML and Web
 - 🌱 I’m currently working on ML projects
 
