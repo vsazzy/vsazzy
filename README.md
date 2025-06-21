@@ -3,9 +3,8 @@
 
 
 - 👋 Hi, I’m @yashVerma
-- 👀 I’m interested in ReactJS
-- 🌱 I’m currently working on Go
-- 💞️ I’m looking to collaborate on Anything related to JS
+- 👀 I’m interested in the world of ML and Web
+- 🌱 I’m currently working on ML projects
 
 
 <!---
