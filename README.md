@@ -3,19 +3,20 @@
 [![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/d/1x2eR5jW_YTu7FLIUrXuaJdv8mkCQ3Xas/p/1_DEbkVviXgQKx8HQr4nPlgV5mXosyEeQ/edit?pli=1/)
 
 
-- 👋 Hi, I’m Yash
-- 👀 I’m interested in the world of ML and Web
-- 🌱 I’m currently working on ML projects
+<br />
 
- ## &#x1f4c8; GitHub Stats
- 
+**About me**
 
-<span> &nbsp;</span>
-[![My Github stats](https://github-readme-stats.vercel.app/api?username=vsazzy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34)](https://github.com/vsazzy/github-readme-stats)<span>&nbsp; </span>
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vsazzy&show_icons=true&&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34&hide=["contribs","prs"]&cache_seconds=86400)
+- 💼 Software Engineer at [Ford Motor Company](http://ford.com/) 
+
+- ❤️ I am interested in the world of ML and Web
+
+- 💬 I am currently working on ML projects
+
+<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
 
 
-<!---
-vsazzy/vsazzy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=vsazzy&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Yash's Github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vsazzy&layout=compact&theme=buefy&hide_border=true" /></a> 
