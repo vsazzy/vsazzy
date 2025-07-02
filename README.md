@@ -12,7 +12,7 @@
 <br>
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%231DA1F2.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yash-verma7/)
-[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://sites.google.com/d/1x2eR5jW_YTu7FLIUrXuaJdv8mkCQ3Xas/p/1_DEbkVviXgQKx8HQr4nPlgV5mXosyEeQ/edit?pli=1/)
+[![portfolio](https://img.shields.io/badge/Portfolio-007AFF?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://vsazzy.github.io/myportfolio/)
 
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
