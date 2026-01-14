@@ -3,7 +3,7 @@
 
 **About me**
 
-- 💼 Working as a Software Engineer at [Ford Motor Company](http://ford.com/) 
+- 💼 Former Software Engineer Software Engineer at [Ford Motor Company](http://ford.com/) 
 
 - ❤️ I am interested in the world of ML and Web
 
